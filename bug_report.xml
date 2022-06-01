@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bug>
-<bug1>AOA</bug1>
-<bug2>30</bug2>
-<bug3>0</bug3>
-<bug4>100</bug4>
+  <bug1>34</bug1>
+  <bug2>340</bug2>
+  <bug3>12</bug3>
+  <bug4>1</bug4>
+  <bug5>1</bug5>
 </bug>
